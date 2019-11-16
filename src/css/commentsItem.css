@@ -1,0 +1,15 @@
+.box {
+  border: 1px solid #ccc;
+  margin: 10px;
+  padding-left: 10px;
+}    
+ 
+.user {
+  color: purple;
+  font-size: 20px;
+}
+
+.content {
+  color: orange;
+  font-size: 16px;
+}
